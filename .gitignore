@@ -4,3 +4,7 @@
 # Hugo
 resources/
 public/
+
+# General
+*.DS_Store
+

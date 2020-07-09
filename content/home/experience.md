@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,27 +18,42 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "SWE Intern"
+  company = "Google"
   company_url = ""
   location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  date_start = "2018-09-14"
+  date_end = "2018-06-14"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Tech Lead"
+  company = "Nexu.mx"
+  company_url = "https://www.nexu.mx/"
+  location = "CDMX, Mexico"
+  date_start = "2015-08-31"
+  date_end = "2017-08-01"
+  description = """
+  """
+
+[[experience]]
+  title = "Computer Science Teacher"
+  company = "Modern American School"
+  company_url = "https://www.modernamerican.edu.mx/"
+  location = "CDMX, Mexico"
+  date_start = "2016-07-31"
+  date_end = "2017-08-01"
+  description = """Taught Object Oriented Programming in C#."""
+
+[[experience]]
+  title = "Research Intern"
+  company = "IBM R&D"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Böblingen, Germany"
+  date_start = "2015-03-15"
+  date_end = "2015-08-31"
+  description = """
+  """
 
 +++
