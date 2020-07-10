@@ -10,12 +10,10 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate at
+role: PhD Candidate at Stanford University
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
 - name: ICME
   url: "https://icme.stanford.edu/"
 - name: SNAIL
