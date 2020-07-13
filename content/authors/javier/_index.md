@@ -80,3 +80,8 @@ I joined the Stanford Neuroscience and Artificial Intelligence Laboratory with P
 
 Before starting grad school, I spent two years working at a Mexican FinTech startup, teaching Computer Science, and doing research in machine learning for text mining. My non-academic interests include alpine skiing, hiking, and cooking.
 
+---
+
+*sagas [at] hey [dot] com*
+
+
