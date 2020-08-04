@@ -8,7 +8,8 @@ abstract: "The neural plausibility of backpropagation has long been disputed, pr
 featured: true
 publication: "ICML 2020"
 url_preprint: https://arxiv.org/abs/2003.01513
-url_icml: https://icml.cc/virtual/2020/poster/6706
+url_pdf: https://proceedings.icml.cc/static/paper_files/icml/2020/5826-Paper.pdf
+url_slides: https://icml.cc/virtual/2020/poster/6706
 url_code: https://github.com/neuroailab/neural-alignment
 tags: ["ICML", "Learning Rules", "Deep Learning"]
 ---
