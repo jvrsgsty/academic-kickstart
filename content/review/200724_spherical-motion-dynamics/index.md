@@ -1,10 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Test"
+title: "Spherical Motion Dynamics of Deep Neural Networks with Batch Normalization and Weight Decay"
+paper_authors: "Ruosi Wan, Zhanxing Zhu, Xiangyu Zhang, Jian Sun"
+paper_date: "July 2020"
+paper_tldr: "This paper is about something"
+doi: ""
+
 authors: [javier]
 date: 2020-08-12T09:19:16-07:00
-doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-08-12T09:19:16-07:00
@@ -19,12 +23,11 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: "Some abstract"
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: ["Learning Dynamics", "Theory"]
 categories: []
 featured: false
 
@@ -36,7 +39,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://arxiv.org/abs/2006.08419v1
 url_code:
 url_dataset:
 url_poster:
@@ -68,8 +71,11 @@ projects: []
 slides: ""
 ---
 
-Can I just add normal markdown here?
-# A header
+### Review
+
+#### Sub headers
+This is what I got 
+
 
 this is great!
 
