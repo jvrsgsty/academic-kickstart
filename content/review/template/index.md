@@ -5,13 +5,14 @@ title: "Spherical Motion Dynamics of Deep Neural Networks with Batch Normalizati
 paper_authors: "Ruosi Wan, Zhanxing Zhu, Xiangyu Zhang, Jian Sun"
 paper_date: "June 2020"
 paper_tldr: "DNNs trained with weight decay and batch normalization reach learning equilibrium on the surface of a sphere in parameter space and their limit angular update can be computed a priori."
-url_pdf: https://arxiv.org/abs/2006.08419 
+url_pdf: https://arxiv.org/abs/2006.08419v1
 
 authors: [javier]
 date: 2020-08-01T09:19:16-07:00
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-08-12T09:19:16-07:00
+# This page will always be hidden
+publishDate: 2120-08-12T09:19:16-07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,7 +22,20 @@ publication_types: ["0"]
 
 tags: ["Learning Dynamics", "Theory"]
 categories: []
+
 ---
 
 ### Review
+
+#### Sub headers
+This is what I got 
+
+
+this is great!
+
+```
+spome code
+```
+
+review
 
