@@ -70,7 +70,11 @@ subtitle = "Mini-reviews to help me track and remember papers I read"
 I got this idea from a [lab mate's website](https://www.eshedmargalit.com/#/PaperReviews) and thought
 I'd do something similar, though perhaps not as nice.
 
+<!---
 {{% alert note %}}
 You can also see all papers I've written a mini-review for [here]({{< ref "/review/_index.md" >}}).
 {{% /alert %}}
+--->
+
+---
 
