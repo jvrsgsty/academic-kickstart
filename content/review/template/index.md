@@ -1,11 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Spherical Motion Dynamics of Deep Neural Networks with Batch Normalization and Weight Decay"
-paper_authors: "Ruosi Wan, Zhanxing Zhu, Xiangyu Zhang, Jian Sun"
+title: "Paper Title"
+paper_authors: "Paper Authors"
 paper_date: "June 2020"
-paper_tldr: "DNNs trained with weight decay and batch normalization reach learning equilibrium on the surface of a sphere in parameter space and their limit angular update can be computed a priori."
-url_pdf: https://arxiv.org/abs/2006.08419v1
+paper_tldr: "TLDR"
+url_pdf: https://arxiv.org/
 
 authors: [javier]
 date: 2020-08-01T09:19:16-07:00
@@ -27,15 +27,9 @@ categories: []
 
 ### Review
 
-#### Sub headers
-This is what I got 
+#### Summary
 
 
-this is great!
+#### Comments 
 
-```
-spome code
-```
-
-review
 
