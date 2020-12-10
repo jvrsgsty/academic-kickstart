@@ -9,7 +9,7 @@ featured: true
 publication: "arXiv"
 url_preprint: https://arxiv.org/abs/2012.04728
 url_pdf: https://arxiv.org/pdf/2012.04728.pdf
-url_code: https://github.com/dkunin/neural-mechanics
+url_code: https://github.com/danielkunin/neural-mechanics
 tags: ["Deep Learning", "Theory", "Symmetry", "Conservation Laws"]
 ---
 
