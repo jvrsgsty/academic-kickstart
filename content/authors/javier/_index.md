@@ -29,6 +29,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Computational and Mathematical Engineering
+    institution: Stanford University
+    year: 2023
   - course: MSc in Computational and Mathematical Engineering
     institution: Stanford University
     year: 2019
@@ -76,7 +79,10 @@ user_groups:
 ---
 
 I am a PhD Candidate at the Institute for Computational and Mathematical Engineering at Stanford University.
-I joined the Stanford Neuroscience and Artificial Intelligence Laboratory with P.I. [Dan Yamins](https://web.stanford.edu/~yamins/) in September 2018 interested in biologically-inspired computational intelligence. My interests grew to include using computational models to understand how the brain works, along with recurrent models of the visual system, learning rules, and deep learning theory.
+I joined the Stanford Neuroscience and Artificial Intelligence Laboratory with P.I. [Dan Yamins](https://web.stanford.edu/~yamins/) in September 2018 widely interested in understanding how the human brain works using computational models.
+I've worked in projects on recurrent models of the visual system, biologically-inspired learning rules and deep learning theory.
+More recently I've been working on understanding how to measure similarity betweeen individuals' neural responses and how to map between them.
+I am also interested in the application and safe deployment of AI systems in the real world.
 
 Before starting grad school, I spent two years working at a Mexican FinTech startup, teaching Computer Science, and doing research in machine learning for text mining. My non-academic interests include alpine skiing, cycling, hiking, cooking, and an ever-increasing obsession with coffee.
 
