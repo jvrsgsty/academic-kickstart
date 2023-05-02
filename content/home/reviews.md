@@ -67,8 +67,9 @@ subtitle = "Mini-reviews to help me track and remember papers I read"
  css_class = ""
 +++
 
-I got this idea from a [lab mate's website](https://www.eshedmargalit.com/#/PaperReviews) and thought
+I got this idea from a [lab mate's website](https://eshedmargalit.com/projects/paperaweek) and thought
 I'd do something similar, though perhaps not as nice.
+His project eventually evolved into [Paper a Week](https://paperaweek.com/), which is just awesome. 
 
 <!---
 {{% alert note %}}
